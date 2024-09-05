@@ -1,5 +1,5 @@
 # myFirstTry
-##Hello Github
+## Hello Github
 This is my _first try_ with __GitHub__
 
 - Hello
@@ -7,7 +7,6 @@ This is my _first try_ with __GitHub__
 - Bob
 
 > SCU
+
 > GXUST
 
--[x] check 1
--[ ] check 2
